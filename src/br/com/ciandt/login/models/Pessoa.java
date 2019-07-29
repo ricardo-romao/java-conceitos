@@ -1,4 +1,4 @@
-package br.com.ciandt.models;
+package br.com.ciandt.login.models;
 
 public class Pessoa {
 
