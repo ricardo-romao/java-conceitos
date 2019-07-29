@@ -1,4 +1,4 @@
-package br.com.ciandt;
+package br.com.ciandt.login;
 
 public class ModificadoresDeAcesso {
 

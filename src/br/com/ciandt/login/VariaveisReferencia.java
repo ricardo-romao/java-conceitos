@@ -1,6 +1,6 @@
-package br.com.ciandt;
+package br.com.ciandt.login;
 
-import br.com.ciandt.models.Pessoa;
+import br.com.ciandt.login.models.Pessoa;
 
 public class VariaveisReferencia {
 
