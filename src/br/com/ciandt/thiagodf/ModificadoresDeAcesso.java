@@ -1,10 +1,10 @@
-package br.com.ciandt.login;
+package br.com.ciandt.thiagodf;
 
 public class ModificadoresDeAcesso {
 
 	public static void main(String[] args) {
 		
-		//Crie a variável joao usando a classe Pessoa
+		//Crie a variï¿½vel joao usando a classe Pessoa
 		
 	}
 }
