@@ -32,7 +32,7 @@ public class VariaveisPrimitivas {
 		System.out.println(myLong);
 		System.out.println(myFloat);
 		System.out.println(myDouble);
-		System.out.println(myCharNumber);/* retorna a oa inves de 97 */
+		System.out.println(myCharNumber);/* retorna char => a  ao inves de char => 97 */
 		System.out.println(myCharText);
 		System.out.println(myBoolean);
 		
