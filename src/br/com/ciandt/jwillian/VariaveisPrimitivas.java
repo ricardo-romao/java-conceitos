@@ -10,8 +10,8 @@ public class VariaveisPrimitivas {
 		long varLong = 1000;
 		float varFloat = 100.1234567890f;
 		double varDouble = 100.1234567890123456789d;
-		char varChar1 = 97;
-		char varChar2 = 'a';
+		char varCharUm = 97;
+		char varCharDois = 'a';
 		boolean varBoolean = true;
 		
 		
@@ -21,8 +21,8 @@ public class VariaveisPrimitivas {
 		System.out.println(varLong);
 		System.out.println(varFloat);
 		System.out.println(varDouble);
-		System.out.println(varChar1);
-		System.out.println(varChar2);
+		System.out.println(varCharUm);
+		System.out.println(varCharDois);
 		System.out.println(varBoolean);
 		
 	}
