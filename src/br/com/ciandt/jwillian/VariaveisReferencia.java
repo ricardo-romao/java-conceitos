@@ -1,6 +1,6 @@
-package br.com.ciandt.login;
+package br.com.ciandt.jwillian;
 
-import br.com.ciandt.login.models.Pessoa;
+import br.com.ciandt.jwillian.models.Pessoa;
 
 public class VariaveisReferencia {
 
@@ -9,7 +9,7 @@ public class VariaveisReferencia {
 		Pessoa joao = new Pessoa();
 		joao.setNome("João");
 		
-		Pessoa pedro = joao;
+		Pessoa pedro = new Pessoa();
 		pedro.setNome("Pedro");
 		
 		System.out.println("O nome do João é " + joao.getNome());

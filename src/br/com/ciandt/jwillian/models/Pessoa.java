@@ -1,4 +1,4 @@
-package br.com.ciandt.login.models;
+package br.com.ciandt.jwillian.models;
 
 public class Pessoa {
 
@@ -13,11 +13,11 @@ public class Pessoa {
 		this.nome = nome;
 	}
 
-	int getIdade() {
+	public int getIdade() {
 		return idade;
 	}
 
-	protected void setIdade(int idade) {
+	public void setIdade(int idade) {
 		this.idade = idade;
 	}
 	
