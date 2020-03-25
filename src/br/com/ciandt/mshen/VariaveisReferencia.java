@@ -9,7 +9,7 @@ public class VariaveisReferencia {
 		Pessoa joao = new Pessoa();
 		joao.setNome("João");
 		
-		Pessoa pedro = joao;
+		Pessoa pedro = new Pessoa();
 		pedro.setNome("Pedro");
 		
 		System.out.println("O nome do João é " + joao.getNome());
