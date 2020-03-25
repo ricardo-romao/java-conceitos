@@ -1,6 +1,6 @@
-package br.com.ciandt.login;
+package br.com.ciandt.mshen;
 
-import br.com.ciandt.login.models.Pessoa;
+import br.com.ciandt.mshen.models.Pessoa;
 
 public class VariaveisReferencia {
 
