@@ -22,7 +22,7 @@ public class VariaveisPrimitivas {
 		float tipoFloat = 100.1234567890f;
 		double tipoDouble = 100.1234567890123456789d;
 		char tipoChar = 97;
-		char tipoChar = 'a';
+		char tipoc = 'a';
 		boolean tipoBooleano = true;
 
 		System.out.println("Valor do tipoByte = " + tipoByte);
@@ -32,7 +32,7 @@ public class VariaveisPrimitivas {
 		System.out.println("Valor do tipoFloat = " + tipoFloat);
 		System.out.println("Valor do tipoDouble = " + tipoDouble);
 		System.out.println("Valor do tipoChar = " + tipoChar);
-		System.out.println("Valor do tipoChar = " + tipoChar);
+		System.out.println("Valor do tipoc = " + tipoChar);
 		System.out.println("Valor do tipoBooleano = " + tipoBooleano);
 
 	}
